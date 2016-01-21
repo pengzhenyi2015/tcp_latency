@@ -1,7 +1,7 @@
-# tcp_latency
+# Function
 test tcp_latency from end to end
 
-# Testing Method
+# Principles
 A simple tcp socket program, Read/Write socket 10000 iterations, then get the average latency.
 The block size can range from 1 to 4M
 
