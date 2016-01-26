@@ -17,7 +17,7 @@ Start client program on the other host, assign server host's ip and the same por
 #Result Example
 Unidirection tcp latency test
 
-#Size(B)   #Average Latency(us)
+Size(B)   Average Latency(us)
  
 1          8.722900   
 
